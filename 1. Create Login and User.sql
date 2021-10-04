@@ -4,7 +4,7 @@ Scripts to create loading user with necessary permissions/resource level
 
 -- **** Replace password with a strong password
 -- Run the next 2 lines IN Master Database
-CREATE LOGIN LoaderRC20 WITH PASSWORD = 'a123STRONGpassword!0190';
+CREATE LOGIN LoaderRC20 WITH PASSWORD = 'a123STRONGpassword!';
 CREATE USER LoaderRC20 FOR LOGIN LoaderRC20;
 
 -- Run In User database after changing name to your database name
