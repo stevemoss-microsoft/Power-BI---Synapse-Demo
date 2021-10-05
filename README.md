@@ -13,4 +13,6 @@ https://daxstudio.org/
 Demo documentation consists of 2 parts:
 <b>Setup:</b>  follow instructions on word document for setup.
 <b>Demo:</b>  follow instructions on word document for demo. 
+![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/Power%20BI%20Dedicated%20Layers.jpg?raw=true)
+
   
