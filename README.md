@@ -1,8 +1,8 @@
-# Power-BI + Synapse-Demo
+# Power-BI + Synapse Synergies Demo
 
 An easy to set up demos of Power BI + Synapse Synergies for performance and lower cost on massive data sets
 
-![summary](https://github.com/stevemoss-microsoft/SynapseScalabilitySimulator/blob/main/images/Scalability%201.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/splash%20page.jpg?raw=true)
 
 ## Pre-requisites
 1) Download Dax Studio to assist with monitoring
