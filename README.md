@@ -2,7 +2,7 @@
 
 An easy to set up demos of Power BI + Synapse Synergies for performance and lower cost on massive data sets
 
-![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/splash%20page.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/graphics/splash%20page.jpg?raw=true)
 
 ## Pre-requisites
 1) Download Dax Studio to assist with monitoring
@@ -27,9 +27,9 @@ Demo documentation consists of 2 parts:
 
 
 Power BI and Synapse Performance Layers:
-![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/Power%20BI%20Dedicated%20Layers.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/graphics/Power%20BI%20Dedicated%20Layers.jpg?raw=true)
 
 Power BI Aggregations and Direct Query
-![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/Power%20BI%20Aggregations%20and%20Direct%20Query.jpg?raw=true)
+![summary](https://github.com/stevemoss-microsoft/Power-BI---Synapse-Demo/blob/main/graphics/Power%20BI%20Aggregations%20and%20Direct%20Query.jpg?raw=true)
 
 
